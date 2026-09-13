@@ -4,6 +4,21 @@
 
 当前开源版本对应正式版 14，版本号为 **2.10**。
 
+## 下载安装包
+
+不想自己编译的话，可以直接下载预构建 APK：
+
+- [jizhangben-v2.10.1.apk](https://github.com/56u7/jizhangben/raw/main/dist/jizhangben-v2.10.1.apk)
+
+如果上面的链接打开后不是直接下载，请进入仓库的 `dist` 目录，点击
+`jizhangben-v2.10.1.apk`，再点 **Download raw file**。
+
+当前 APK 的 SHA-256：
+
+```text
+72329769AE84BCDDCCD773B5CE75D320B13CB76160AB43EF4F3F7CB1429D9AF8
+```
+
 ## 功能
 
 - 记一笔：收入 / 支出、分类、金额、日期、备注
