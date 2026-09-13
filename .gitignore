@@ -1,4 +1,6 @@
 *.apk
+!dist/
+!dist/*.apk
 *.aab
 *.idsig
 *.keystore
