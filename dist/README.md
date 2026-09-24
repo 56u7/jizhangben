@@ -2,15 +2,15 @@
 
 本目录包含可以直接安装的预构建 APK。
 
-## jizhangben-v2.10.1.apk
+## jizhangben-v2.39.apk
 
-- 版本：2.10
-- 对应功能：正式版14
-- 文件大小：约 382 KB
+- 版本：2.39
+- 对应功能：正式版34
+- 文件大小：约 406 KB
 - SHA-256：
 
 ```text
-72329769AE84BCDDCCD773B5CE75D320B13CB76160AB43EF4F3F7CB1429D9AF8
+749D11F69AFDFB33BE671EFA647D62F0FE725839DE1F693C378B0D3079EDD965
 ```
 
 ## 安装提示

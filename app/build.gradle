@@ -10,8 +10,8 @@ android {
         applicationId 'com.jizhang.jizhangben'
         minSdk 24
         targetSdk 34
-        versionCode 12
-        versionName '2.10'
+        versionCode 41
+        versionName '2.39'
     }
 
     buildTypes {
